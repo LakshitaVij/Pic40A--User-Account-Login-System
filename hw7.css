@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column-reverse;
+    position: absolute;
+    top: 0px;
+}
+
+
+#loginInfo{
+    border: 1px;
+    border-style: solid;
+}
